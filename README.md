@@ -32,16 +32,26 @@ I'm a **Full-Stack Developer** with 1+ years of hands-on experience building sca
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tanstack Start](https://img.shields.io/badge/Tanstack_Start-000000?style=for-the-badge&logo=tanstack&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![TRPC](https://img.shields.io/badge/TRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Library & Packages
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -98,7 +108,7 @@ I'm a **Full-Stack Developer** with 1+ years of hands-on experience building sca
 
 </div>
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 ### 🎵 Audio Transcoding Engine
 **Tech:** Go, FFmpeg, React.js, Gin Framework  
@@ -115,7 +125,7 @@ Dynamic portfolio website showcasing projects and blog posts with responsive des
 ### 🎵 Music Player Android App
 **Tech:** Java, XML, Android Studio  
 Clean UI/UX music player inspired by Samsung's design, demonstrating mobile development expertise and user-centered design principles.
-
+-->
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about technology!
