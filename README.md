@@ -126,17 +126,24 @@ Dynamic portfolio website showcasing projects and blog posts with responsive des
 **Tech:** Java, XML, Android Studio  
 Clean UI/UX music player inspired by Samsung's design, demonstrating mobile development expertise and user-centered design principles.
 -->
+---
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations, discussions, or just a friendly chat about technology!
+<div align="center">
 
-- 📧 Email: srezhilsivaraj@gmail.com
-- 🌐 Portfolio: [ezhilsivaraj.vercel.app](https://ezhilsivaraj.vercel.app)
-- 📝 Medium: [@srezhilsivaraj](https://medium.com/@srezhilsivaraj)
-- 💻 Dev.to: [@ezhil_sivarajsr](https://dev.to/ezhil_sivarajsr)
-- 📱 Phone: +91 9361201687
+[![Portfolio](https://img.shields.io/badge/Portfolio-ezhilsivaraj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ezhilsivaraj.vercel.app)
+[![Email](https://img.shields.io/badge/Email-srezhilsivaraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srezhilsivaraj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ezhil--003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezhil-003)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezhilsivarajsr)
+[![](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EzhilSivaraj)
+
+[![Medium](https://img.shields.io/badge/Medium-@srezhilsivaraj-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srezhilsivaraj)
+[![Dev.to](https://img.shields.io/badge/Dev.to-@ezhil__sivarajsr-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ezhil_sivarajsr)
+
+**💼 Open for collaborations, freelance projects, and tech discussions**
+
+</div>
 
 <div align="center">
 
