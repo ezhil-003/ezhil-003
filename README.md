@@ -131,7 +131,7 @@ Clean UI/UX music player inspired by Samsung's design, demonstrating mobile deve
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ezhilsivaraj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ezhilsivaraj.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ezhilsivaraj.pro-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ezhilsivaraj.pro)
 [![Email](https://img.shields.io/badge/Email-srezhilsivaraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srezhilsivaraj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ezhil--003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezhil-003)
 
